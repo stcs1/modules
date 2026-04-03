@@ -1,0 +1,8 @@
+
+# Ignore all .log files
+*.logterraform.tfvars
+*.tfvars
+*.tfstate
+*.tfstate.backup
+# Ignore .terraform directory
+.terraform/
